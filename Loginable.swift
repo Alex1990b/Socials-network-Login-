@@ -1,6 +1,5 @@
 //
 //  Loginable.swift
-//  InternationalWorld
 //
 //  Created by Alex on 5/7/19.
 //  Copyright © 2019 alex. All rights reserved.
