@@ -1,9 +1,8 @@
 //
 //  LoginResponse.swift
-//  InternationalWorld
 //
-//  Created by SSD on 5/7/19.
-//  Copyright © 2019 beard. All rights reserved.
+//  Created by Alex on 5/7/19.
+//  Copyright © 2019 alex. All rights reserved.
 //
 
 import Foundation
